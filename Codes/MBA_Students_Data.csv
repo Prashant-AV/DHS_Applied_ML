@@ -1,0 +1,201 @@
+sr_no,mba_specialization,mba_grades,gender,age,pg_degree,grad_degree,grad_pass_year,grad_pct,ten_plus_2_pass_year,ten_plus_2_pct,ten_plus_2_stream,tenth_pass_year,tenth_std_pct,work_exp_in_mths
+1,Business Analytics,8.2,M,26,No,B.Tech,2011,61.65,2008,85.67,Science,2006,80,44
+2,Marketing,8.5,F,21,No,B.M.S,2016,76.75,2013,87.54,Commerce,2011,88.4,NA
+3,Marketing,8.9,M,21,No,B.Sc,2015,77.25,2012,75.07,Science,2010,84.2,0
+4,Marketing,8.2,F,23,No,B.Com,2014,84.21,2011,82.77,Commerce,2009,85.09,NA
+5,Marketing,7.2,F,21,No,B.M.S,2015,71,2012,71.45,Commerce,2010,78.36,6
+6,Marketing,8.1,M,26,No,B.E - Mechanical,2012,58.13,2008,77.33,Science,2006,86.3,18
+7,Marketing,7,M,25,No,B.Tech - Computer Science,2013,70,2009,68.5,Science,2007,87.4,15
+8,Marketing,7.8,F,22,Yes,B.Com,2014,77.64,2011,86.92,Commerce,2009,91.45,24
+9,Marketing,6.9,M,22,No,B.Sc,2015,68.37,2012,69.39,Science,2010,92.18,NA
+10,Marketing,6.8,M,22,No,Bachelor In Engineering,2016,61,2012,64,Science,2010,89.3,11
+11,Marketing,7.8,F,23,No,B.B.A,2016,85.25,2011,83.4,Science,2009,95,NA
+12,Marketing,8.1,F,27,No,B.Com,2010,85.92,2007,74.5,Commerce,2005,81.23,38
+13,Marketing,6.9,M,23,No,B.E Production,2012,68.75,2008,62.33,Science,2008,83,25
+14,Marketing,7.3,M,22,No,B.Com,2015,65,2012,81.38,Commerce,2010,88,NA
+15,Marketing,7.6,M,22,No,B.E - Electrical,2015,74.6,2011,71.85,Science,2009,78.18,0
+16,Marketing,7.6,M,22,No,B.Com,2015,58.21,2012,62,Commerce,2010,71.45,6
+17,Marketing,7.6,F,24,No,B.Tech - EXTC,2014,72.6,2010,60,Science,2008,78.85,18
+18,Marketing,7.6,M,27,No,B.Tech - Civil Infrastructure Engineering,2011,72,2007,72.2,Science,2005,82.3,24
+19,Marketing,7.6,M,25,No,"B.E, Mumbai University",2013,74.76,2008,57.33,Science,2006,78.78,24
+20,Marketing,7.2,F,22,No,B.M.S,2014,74.64,2011,81.08,Commerce,2009,78.91,22
+21,Business Analytics,7.9,M,23,No,B.E - Chemical,2013,68.94,2009,82.83,Science,2007,94.55,24
+22,Marketing,7.2,M,25,No,B.E - Civil,2013,67.6,2009,64.83,Science,2007,86.55,24
+23,Marketing,8.1,F,24,No,B.Com - Financial Markets,2013,71.64,2010,76.67,Commerce,2008,86.18,6
+24,Marketing,7.8,M,24,No,B.E - Mechanical,2014,60.71,2010,68.33,Science,2008,87.45,8
+25,Marketing,7.2,M,22,No,B.E,2015,66.39,2011,81.54,Science,2009,80.55,NA
+26,Marketing,6.5,M,22,No,B.E - Computers,2016,77.41,2012,77.08,Science,2010,91.45,0
+27,Marketing,6.5,F,22,No,B.M.S,2014,72.07,2011,73,Commerce,2009,77.9,12
+28,Marketing,6.6,M,21,No,B.M.S,2016,76,2013,80.31,Commerce,2011,85.41,0
+29,Marketing,7.8,M,21,No,B.M.S,2016,90.75,2013,84.77,Commerce,2011,79.67,7
+30,Marketing,6.8,M,22,No,B.Com,2014,66,2011,91,Commerce,2009,74.1,NA
+31,Marketing,7.8,F,23,No,B.E - Electronics,2014,69.94,2010,77.5,Science,2008,96.5,9
+32,Marketing,7.7,F,22,No,B.M.S,2015,71,2012,87.4,Commerce,2010,94.2,NA
+33,Marketing,7.5,M,25,No,B.E - Civil,2014,66.46,2009,54.5,Science,2007,85.09,6
+34,Marketing,7.2,M,26,Yes,B.Com,2011,75.25,2008,76.83,Commerce,2006,77,36
+35,Marketing,8.7,M,25,No,B.E - Electronics and Telecommunications,2013,67,2009,89,Computer Science,2007,93,23
+36,Marketing,8,M,27,No,B.E - Mechanical,2011,62.14,2007,60.5,Science,2005,64.8,29
+37,Marketing,7.7,M,24,No,B.E - Civil,2014,73.53,2010,69.67,Science,2008,89,15
+38,Marketing,6.9,F,22,No,B.Com,2015,76,2012,90.92,Commerce,2010,95.45,NA
+39,Marketing,6.7,M,26,No,B.E - Mechanical,2012,76.26,2008,82.33,Science,2006,92.6,37
+40,Marketing,7.2,M,24,No,B.Com,2012,66.93,2009,74.17,Commerce,2007,69.64,20
+41,Marketing,8.2,F,24,No,B.E - Electrical,2013,68.56,2009,73.33,Science,2007,86.18,37
+42,Marketing,7.9,M,23,No,B.B.A,2014,84,2010,66.8,Science,2008,79.8,0
+43,Marketing,6.9,M,22,No,B.Com,2014,48.71,2011,77.2,Commerce,2009,89.3,14
+44,Marketing,6.5,M,27,No,"B.Sc - Physics, Chemistry, Maths",2012,67,2007,62,Science,2005,73.6,47
+45,Marketing,7.8,M,23,No,B.E,2015,68.24,2011,58.83,Science,2009,78.91,0
+46,Marketing,7.4,F,21,No,B.A.F,2015,66.88,2012,78.92,Commerce,2010,81.2,0
+47,Business Analytics,7.4,F,22,No,B.E - Electronics and Telecommunications,2015,70.28,2011,81.23,Science,2009,87.64,0
+48,Marketing,6.8,M,22,Yes,B.M.S,2015,72.31,2012,82.79,Commerce,2010,83.04,20
+49,Marketing,8.1,M,24,No,B.E,2013,72.25,2009,87.83,Science,2007,88.36,35
+50,Business Analytics,7.9,M,23,No,B.E - EXTC,2015,72.87,2011,84.2,Science,2009,93.1,NA
+51,Marketing,7.8,M,25,Yes,B.Com,2011,75.2,2008,81.4,Commerce,2006,85,12
+52,Marketing,7.6,M,25,No,B.E,2013,63.05,2009,69.83,Science,2007,90.73,48
+53,Marketing,8.8,M,22,No,B.E - EXTC,2015,61.45,2011,91,Science,2009,80.86,NA
+54,Marketing,8.5,M,23,Yes,B.M.M - Journalism,2014,60.92,2011,93.8,Commerce,2009,93.1,NA
+55,Business Analytics,6.5,F,23,No,B.A.F,2014,73.33,2011,85.23,Commerce,2009,90,14
+56,Marketing,7,M,23,No,B.B.I,2015,74,2012,58,Commerce,2009,67,0
+57,Marketing,7,M,20,No,B.A.F,2016,76,2013,76,Commerce,2011,80.6,NA
+58,Marketing,7.3,M,25,No,B.Com,2012,62.08,2009,82.8,Commerce,2007,70.42,31
+59,Marketing,7.6,F,26,No,B.Sc - Computer Science,2011,83,2008,85.33,Science,2006,96.46,46
+60,Marketing,7.2,M,25,No,B.Sc - Nautical Science,2014,68.31,2009,58.83,Science,2007,82,46
+61,Marketing,7.5,F,23,No,B.Com,2014,71.64,2011,73.54,Commerce,2009,79.64,0
+62,Marketing,7.5,M,24,No,B.Com - Honours,2012,67.13,2009,77.66,Commerce,2007,72,14
+63,Marketing,7.5,M,24,No,B.Tech - Computer Science,2013,62.45,2009,70.17,Science,2007,81.09,19
+64,Marketing,6.9,F,21,No,B.Com,2015,75.07,2012,88.92,Commerce,2010,91.27,10
+65,Business Analytics,7.8,F,22,No,B.M.S,2015,76.57,2012,93.2,Commerce,2010,90.8,8
+66,Marketing,7.6,M,20,No,B.A.F,2016,74,2013,67.4,Commerce,2011,82.54,0
+67,Marketing,7.8,M,25,No,B.E - Computer Engineering,2012,68.06,2008,83.33,Science,2006,88.76,28
+68,Marketing,6.3,M,22,No,B.E,2016,76,2012,80.3,Science,2010,89.45,0
+69,Marketing,7.4,F,22,Yes,B.Com,2015,61.57,2012,75.23,Commerce,2010,83.27,NA
+70,Marketing,7.5,M,21,No,B.Com,2015,63,2012,64.77,Science,2010,92.55,NA
+71,Marketing,6.9,M,22,No,B.Com,2015,64.07,2012,73.85,Commerce,2010,81.45,NA
+72,Marketing,6.9,M,22,No,B.B.A - IT,2015,74,2012,69,Commerce,2010,61.83,0
+73,Marketing,8.6,F,24,No,B.Sc - Information Technology,2013,84.32,2010,53.5,Science,2008,89.45,37
+74,Marketing,8,F,21,No,B.A.F,2016,92.86,2013,90.31,Commerce,2011,92.8,6
+75,Marketing,7.8,F,27,No,B.Com - Honours,2011,72.5,2008,67.8,Commerce,2006,78.17,61
+76,Finance,8.5,F,23,No,B.Com,2014,78.86,2011,76.31,Commerce,2009,87.64,14
+77,Finance,7.6,M,22,Yes,B.Com,2014,68,2011,74.46,Commerce,2009,80.55,NA
+78,Finance,7.8,F,21,No,B.Com,2015,68.57,2012,86.67,Commerce,2010,90.36,6
+79,Business Analytics,8.5,F,21,No,B.Com,2015,82.21,2012,90.15,Commerce,2010,92,0
+80,Finance,7.4,M,22,No,B.Com,2015,72.5,2012,83.47,Commerce,2010,74.17,NA
+81,Finance,6.8,F,22,Yes,B.A.F,2015,81.16,2012,87.69,Commerce,2010,85.82,0
+82,Finance,6.9,M,24,No,B.E,2013,73.52,2009,80.5,Science,2007,85.45,19
+83,Finance,6.8,F,23,Yes,B.Com,2014,61,2011,76.31,Commerce,2009,77.63,27
+84,Finance,7.6,M,21,No,B.Com,2016,76.63,2013,83.85,Commerce,2011,93.8,0
+85,Business Analytics,7.9,M,21,No,B.M.S,2016,77.74,2013,87.8,Commerce,2011,86.5,0
+86,Finance,7.8,M,24,No,B.E - Mechanical,2014,68.73,2009,69.17,Science,2007,85.27,22
+87,Finance,8.1,F,24,No,B.A.F,2013,80.58,2010,82.67,Commerce,2008,82.73,22
+88,Finance,6.8,M,23,No,B.Com,2014,66.9,2011,69.54,Commerce,2009,70.34,9
+89,Finance,7.6,M,24,No,B.M.S,2013,61.93,2010,75.83,Commerce,2008,80.91,24
+90,Finance,7.6,F,23,Yes,B.Com,2013,72.07,2010,84.33,Commerce,2008,92.73,36
+91,Finance,7.2,F,21,No,B.Com,2016,59.38,2012,89.54,Commerce,2010,93.4,NA
+92,Finance,8,M,24,No,B.Tech,2013,80.7,2009,72.17,Science,2007,90.91,24
+93,Finance,6.8,F,22,No,B.Com,2015,82.07,2012,87.54,Commerce,2010,92.91,NA
+94,Finance,6.9,F,23,No,B.Com,2015,70.71,2012,78.77,Commerce,2010,82.83,0
+95,Finance,7.8,F,23,No,B.Tech - Mechanical,2014,70,2010,76.33,Science,2008,91.82,6
+96,Finance,7.2,M,23,No,B.M.S,2013,68.35,2010,63.83,Commerce,2008,81.27,15
+97,Finance,7.4,M,24,No,B.E - Mechanical,2013,73,2009,78.5,Science,2007,83.45,18
+98,Finance,6.7,M,21,No,B.B.A,2015,64.13,2012,84.46,Commerce,2010,90.36,0
+99,Finance,7.1,M,25,No,B.E - Production Engineering,2014,79.71,2009,71.5,Science,2007,90.18,13
+100,Finance,9,M,22,No,B.M.S,2015,80.5,2012,90.62,Commerce - Information Technology,2010,86.36,NA
+101,Finance,7.4,M,25,No,B.E - Computers,2013,71.12,2009,71.63,Science,2007,92.91,27
+102,Finance,8,M,25,No,B.Com,2012,64.9,2009,80,Commerce,2007,62.7,24
+103,Finance,7.7,M,25,No,B.E,2012,59.2,2008,77,Science,2006,87.4,48
+104,Finance,7,F,24,No,B.Com,2012,74.35,2009,82.33,Commerce,2007,93.86,36
+105,Finance,6.9,F,23,No,B.E - CSE,2014,64.6,2010,66,Science,2008,89.27,NA
+106,Finance,7.5,F,21,No,B.Com,2015,75.42,2012,87.38,Commerce,2010,86.91,NA
+107,Finance,6.5,M,24,No,B.Tech,2014,65,2010,60,Science,2008,76,11
+108,Finance,6.8,F,23,No,B.Sc,2015,68.62,2012,53.38,Science,2009,68,0
+109,Business Analytics,7.4,F,22,No,B.Com,2015,79.35,2012,89.38,Commerce,2010,89.82,0
+110,Finance,7.4,M,23,No,B.M.S,2013,74,2010,77.83,Commerce,2008,86.91,27
+111,Finance,7.8,M,22,Yes,B.M.S,2014,55.55,2011,78,Commerce,2009,78.36,15
+112,Finance,7.6,M,21,No,B.Com,2015,64,2012,85.23,Commerce,2010,89.45,NA
+113,Finance,6.8,F,23,No,B.Com,2013,72.8,2010,75,Commerce,2008,78,6
+114,Finance,8.3,M,27,No,B.Com,2010,82.42,2007,68.5,Commerce,2005,74.42,60
+115,Finance,6.5,M,23,No,B.Tech - Mechanical,2015,88.37,2011,71.38,Science,2009,82.18,NA
+116,Finance,7.3,M,23,No,B.E - Computer Engineering,2014,65,2010,64.33,Science,2008,88,NA
+117,Finance,7.5,F,20,No,B.M.S,2016,77.6,2013,88.3,Commerce,2011,88.6,2
+118,Finance,6.5,F,20,No,B.Com,2016,85,2013,86.46,Commerce,2011,81.83,0
+119,Finance,7.5,M,25,No,B.E,2013,69.27,2009,75.17,Science,2007,90.91,29
+120,Finance,7.8,M,22,No,B.Com - Honours,2015,67,2012,86.7,Commerce,2010,81.6,NA
+121,Finance,7.5,F,21,No,B.M.S,2016,82.08,2013,88.3,Commerce,2011,90.8,NA
+122,Finance,7.6,M,23,No,B.Com,2014,61.57,2011,79.85,Commerce,2009,79.64,24
+123,Finance,7.6,M,21,No,B.Com,2015,63.91,2012,73.85,Commerce,2010,86.73,0
+124,Finance,6.8,F,23,No,B.E,2013,77.53,2009,76.5,Science,2007,94.91,18
+125,Finance,7.4,M,20,No,Bachelor of Banking and Insurance,2016,76.42,2013,78.31,Commerce,2011,81.83,NA
+126,Finance,6.9,M,29,No,B.Com,2008,67,2005,77.17,Commerce,2003,70.3,60
+127,Finance,6.6,M,25,No,B.M.S,2012,71.57,2009,65.67,Commerce,2007,62.55,41
+128,Finance,7.5,M,23,No,B.Com,2014,53.28,2011,76,Commerce,2009,78.73,0
+129,Finance,7.7,F,24,No,B.Com,2012,66.79,2009,73.33,Commerce,2007,85.09,18
+130,Finance,6.9,F,22,No,B.Com,2015,70.25,2012,88.61,Commerce,2010,82.04,0
+131,Finance,7.3,F,22,No,B.Com,2015,73.36,2012,88.15,Commerce,2010,84.36,11
+132,Finance,7.5,M,21,No,B.M.S,2016,81.56,2013,79.85,Commerce,2011,85.6,0
+133,Finance,6.9,M,23,No,B.E,2015,74,2011,78,Science,2009,76,12
+134,Finance,7.8,M,21,No,B.Com,2016,74,2013,70.92,Commerce,2011,82.2,0
+135,Finance,6.8,M,23,No,B.Com,2013,61.85,2010,62.17,Commerce,2008,76,16
+136,Business Analytics,8.9,M,22,No,B.E - Mechanical,2015,73,2011,90.62,Science,2009,93.09,13
+137,Finance,9.1,F,20,No,B.M.S,2016,82.71,2013,90.31,Commerce,2011,92.2,0
+138,Finance,6.5,F,22,No,B.E,2015,70.49,2011,73.23,Science,2009,83.09,0
+139,Finance,7.5,F,21,No,B.B.A,2016,76.46,2013,83,Commerce,2011,87.4,0
+140,Finance,8.6,F,25,No,B.E - ENTC,2012,72.2,2008,80.33,Science - Maths & Biology,2006,86,48
+141,Finance,6.7,M,23,No,B.E,2014,64.91,2010,68.33,Science,2008,77.09,18
+142,Finance,6.8,M,20,No,B.A.F,2016,79,2013,81.38,Commerce,2011,82.6,NA
+143,Finance,7.6,F,22,No,B.Com,2014,72.93,2011,77.69,Commerce,2009,87.27,NA
+144,Finance,7.7,F,25,No,B.E - Information Technology,2013,83.81,2009,82.83,Science,2007,94,27
+145,Finance,8.4,F,26,No,B.Com,2011,78.57,2008,83.17,Commerce,2006,87.07,36
+146,Finance,7.5,M,24,No,B.E,2013,63.06,2009,70.67,Science,2007,79.09,13
+147,Finance,7,M,21,No,B.Com,2015,61.21,2012,69.08,Commerce,2010,66,0
+148,Finance,7.4,F,23,No,B.Com,2013,60,2010,88.4,Commerce,2008,85.5,15
+149,Finance,7.2,F,23,No,B.Com,2014,64.57,2011,82.46,Commerce,2009,88.18,0
+150,Finance,6.9,F,28,No,B.E,2011,67.26,2006,71.5,Science,2004,75.38,32
+151,Finance,7.9,F,20,No,B.M.S,2016,80.83,2013,88.92,Commerce,2011,91.8,NA
+152,Finance,6.8,M,22,No,B.Com,2015,72.28,2012,72.77,Commerce,2010,80.5,NA
+153,Finance,7.6,M,24,No,B.E - Mechanical,2014,56.09,2010,66.33,Science,2008,71.86,NA
+154,Finance,7.6,M,24,Yes,B.Com,2013,75.14,2010,78.67,Commerce,2008,92.57,29
+155,Finance,6.5,M,21,No,B.Com - Financial Markets,2016,67.9,2013,80.46,Commerce,2011,68.6,NA
+156,Finance,6.5,M,21,No,B.M.S,2015,69.17,2012,69.38,Commerce,2010,78.55,NA
+157,Finance,7.8,M,23,No,B.A.F,2014,63.42,2011,67.08,Commerce,2009,70.91,0
+158,Finance,8.1,F,21,No,B.Com,2016,78.43,2013,84.15,Commerce,2011,90.6,0
+159,Finance,7.9,F,23,No,B.Com - Honours,2014,71.5,2011,84.2,Commerce,2009,87.5,0
+160,HR,8.5,F,26,Yes,B.Tech,2013,95,2008,88.2,Science,2006,95,3
+161,Business Analytics,7.1,F,25,No,B.Com,2013,72.72,2010,72.67,Commerce,2008,79,24
+162,HR,7.6,F,23,No,B.Sc - Hotel Management,2013,74.6,2010,71,Commerce,2008,85.27,13
+163,HR,7.8,F,22,Yes,B.M.S,2015,75.07,2012,85.08,Commerce,2010,83.82,NA
+164,HR,7.8,F,23,No,B.Com,2014,71,2011,78,Commerce,2009,83.45,14
+165,HR,7.9,M,21,No,B.Sc - Information Technology,2015,68.77,2012,66.31,Commerce,2010,66.18,NA
+166,HR,9.2,F,23,No,B.E,2015,87.2,2011,77.8,Science,2009,95,NA
+167,HR,6.7,M,23,Yes,Bachelor of Banking and Finance,2014,64.57,2011,58.62,Commerce,2009,68,7
+168,HR,7.9,F,24,No,B.E,2013,68.4,2010,74.06,Science,2007,86.91,26
+169,Business Analytics,6.9,F,21,No,B.M.S,2016,81.56,2013,85.38,Commerce,2011,90,NA
+170,HR,7.2,M,23,No,B.E,2015,67.27,2011,74.46,Science,2009,89.09,0
+171,HR,6.8,F,22,Yes,Bachelor of Banking and Insurance,2015,81.57,2012,84.62,Commerce,2010,75.16,NA
+172,HR,7.2,F,21,No,B.Com,2016,76.32,2013,88,Commerce,2011,91,NA
+173,HR,6.8,F,25,No,B.Sc - Hospitality and Hotel Administration ,2012,70.81,2009,76.5,Commerce,2007,89.82,35
+174,HR,6.8,F,21,No,B.Com,2016,73.4,2013,82,Commerce,2011,85.5,NA
+175,HR,6.9,F,20,No,B.M.S,2016,79,2013,90.15,Commerce,2011,88.2,23
+176,HR,6.7,F,23,No,B.M.S,2014,69.85,2011,69.54,Commerce,2009,72.73,13
+177,Business Analytics,8.6,F,22,No,B.Com - Honours,2015,70.06,2012,92.6,Commerce,2010,93.1,1
+178,HR,6.9,M,26,No,Bachelor in Computer Application,2016,51,2012,53,Commerce,2007,61,10
+179,HR,6.5,M,21,No,B.B.A - IB,2016,54,2013,66,Commerce,2011,74,NA
+180,Business Analytics,7.2,F,27,No,B.E,2011,75.47,2007,75.67,Science,2005,83.53,36
+181,Business Analytics,7.6,F,23,No,B.Com,2014,55,2011,87,Commerce,2009,59,16
+182,HR,6.8,F,22,No,B.M.M,2015,62,2012,72.77,Commerce,2010,72.73,6
+183,HR,7.6,M,20,No,B.M.S,2016,63.4,2013,63,Commerce,2011,83.4,0
+184,Business Analytics,7.2,F,21,No,B.M.S,2016,74.57,2013,56.15,Commerce,2011,85.4,24
+185,HR,7,M,22,No,B.Com,2015,60,2012,63,Commerce,2010,66.2,NA
+186,HR,7.2,M,26,No,B.Com,2011,72,2008,61.83,Commerce,2006,74.15,NA
+187,HR,7,M,22,No,B.M.S,2015,65,2012,66,Commerce,2010,65.82,6
+188,Business Analytics,7.8,F,22,No,B.E - Mechanical,2016,70,2012,80,Science,2010,80.8,12
+189,HR,6.6,M,20,No,B.M.S,2016,57,2013,69.85,Commerce,2011,53.6,NA
+190,Business Analytics,7.3,F,29,Yes,B.Com,2008,71,2005,78.6,Commerce,2003,69.4,33
+191,HR,6.9,F,24,No,B.M.S,2014,61.21,2011,56.67,Commerce,2007,67.2,2
+192,HR,6.8,M,24,No,B.Com,2014,60.1,2011,68.72,Commerce,2009,81.74,33
+193,Marketing,6.9,M,21,No,B.Com,2016,67,2013,79.8,Commerce,2011,78,NA
+194,Business Analytics,7.8,M,22,No,B.Sc - Aeronautics,2014,73.4,2011,61.31,Science,2009,92.36,24
+195,Business Analytics,7.3,M,22,No,B.E - Computers,2015,56.73,2011,74.77,Science,2009,94.36,7
+196,Business Analytics,8.6,F,24,No,B.E - EXTC,2014,66.66,2010,72,Science - PCM,2008,97.27,7
+197,Business Analytics,6.9,F,26,No,B.Com,2011,77.57,2008,79.17,Commerce,2006,87.69,50
+198,Business Analytics,6.8,M,20,No,B.Sc - Zoology,2016,76,2013,64,Science,2014,75,3
+199,Business Analytics,7.8,F,22,No,B.Com - Honours,2015,83.13,2012,87.33,Commerce,2010,83.6,0
+200,Business Analytics,7.8,M,25,No,B.E - Production Engineering,2013,74,2009,64,Diploma in Mechanical Engineering,2006,82.61,24
